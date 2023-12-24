@@ -1,4 +1,4 @@
-![puzzleicon](https://github.com/SatyamkrJha85/Puzzel_Game_Using_Java/assets/111700337/bc138cd0-7083-41fd-8cb7-c9e60334d208)# Puzzle Game App
+# Puzzle Game App
 
 Welcome to the Puzzle Game App! This app allows users to play a puzzle game by rearranging image tiles.
 
@@ -11,8 +11,7 @@ Welcome to the Puzzle Game App! This app allows users to play a puzzle game by r
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/[Uploading puzzleicon.png…]()
-t1.png)
+![puzzleicon](https://github.com/SatyamkrJha85/Puzzel_Game_Using_Java/assets/111700337/bc138cd0-7083-41fd-8cb7-c9e60334d208)
 
 ## Getting Started
 
