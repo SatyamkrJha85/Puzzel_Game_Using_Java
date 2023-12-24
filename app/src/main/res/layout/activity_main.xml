@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grid"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#555454"
+    android:gravity="center"
+    tools:context="com.webviewnewone.puzzel.MainActivity"
+    >
+
+
+
+    <EditText
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:background="@drawable/textrnd"
+        android:layout_width="250dp"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:hint="Enter No Of Rows"
+        android:id="@+id/row"/>
+
+    <EditText
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:background="@drawable/textrnd"
+        android:layout_width="250dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_height="50dp"
+        android:hint="Enter No Of Columns"
+        android:id="@+id/col"/>
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:id="@+id/start"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:text="Start Game" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Score:0"
+        android:textSize="25sp"
+        android:visibility="gone"
+        android:id="@+id/score"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time:0"
+        android:textSize="25sp"
+        android:visibility="gone"
+        android:id="@+id/time"/>
+
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Developed By Satyam Jha"
+    android:layout_marginTop="80dp"
+    />
+
+
+
+</LinearLayout>
